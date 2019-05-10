@@ -1,0 +1,9 @@
+
+--HOW TO REPLACE COLORS--
+
+In order to replace the colors you simply need to go a color folder and choose the style.css file and copy it and then go to the css folder and replace the current style.css that is there. 
+If you got any problems what so ever, please reach out to me on steam: http://steamcommunity.com/id/floodify/
+
+--IMPORTANT INFO--
+
+Only use copy, do not remove any style csss or move them so they get replaced. Keeping the original is important if you would like to change back to the original or previous color.
